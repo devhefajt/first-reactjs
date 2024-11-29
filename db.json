@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "id": "2"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "id": "3"
+    },
+    {
+      "name": "adminon",
+      "email": "madminont@example.org",
+      "id": "20e4"
+    },
+    {
+      "id": "436b",
+      "name": "fgh",
+      "email": "skilefghfgs@exam"
+    },
+    {
+      "name": "asdas",
+      "email": "skiles@examtyhty",
+      "id": "fb56"
+    }
+  ]
+}
